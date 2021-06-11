@@ -1,11 +1,16 @@
 _repo: Voyage-d-un-faux-musulman-a-travers-l-Afrique_65530
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65530-h/images/cover.jpg
 creator:
   author:
     agent_name: Caillié, René
     gutenberg_agent_id: '53394'
     url: http://www.gutenberg.org/2009/agents/53394
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65530#Voyage-d-un-faux-musulman-a-travers-l-Afrique
 gutenberg_issued: '2021-06-06'
 gutenberg_type: Text
 identifiers:
